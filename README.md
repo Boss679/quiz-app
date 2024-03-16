@@ -8,7 +8,7 @@ This Trivia Quiz App is a Python-based desktop application that allows users to 
    ```bash
    git clone https://github.com/your-username/trivia-quiz-app.git
 * Navigate to the project directory:
-*    ```bash
+    ```bash
   cd trivia-quiz-app
 * Install the required dependencies
 
